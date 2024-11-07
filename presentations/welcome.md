@@ -87,11 +87,11 @@ https://www.pdc.kth.se/about/events/build-systems-course-and-hackathon-part-i-1.
 # Thursday 10th October - Spack and EasyBuild
 
 - 08:50 – 09:00 Soft start
-- 09:00 – 09:50 **Spack** (Peter Larsson, Johan Hellsvik)
+- 09:00 – 09:50 **Spack** (Peter Larsson)
 - 09:50 – 10:00 Break
-- 10:00 – 10:50 **Spack** (Peter Larsson, Johan Hellsvik)
+- 10:00 – 10:50 **Spack** (Peter Larsson)
 - 10:50 – 11:00 Break
-- 11:00 – 12:00 **EasyBuild** (Johan Hellsvik, Henric Zazzi)
+- 11:00 – 12:00 **EasyBuild** (Henric Zazzi)
 
 ---
 
@@ -104,3 +104,19 @@ https://www.pdc.kth.se/about/events/build-systems-course-and-hackathon-part-i-1.
 - 10:50 – 11:00 Break
 - 11:00 – 11:45 **Best practices for sharing reproducible containers** (Maiken Pedersen and Radovan Bast)
 - 11:45 – 12:00 Wrap up of the course & concluding remarks
+
+---
+
+# Concluding remarks
+
+- Thank you for attending the course!
+
+- The collaborative notes for first three days are uploaded to the course git repository. For follow-up questions on the topics of the course, please interact in the collaborative document that we will keep open till Wednesday next week
+
+- Support channels at HPC centers in Nordic countries
+  - Sweden: NAISS https://supr.naiss.se/support/
+  - Norway: Sigma2 https://www.sigma2.no/user-support
+  - Finland:
+    - CSC https://docs.csc.fi/support/contact/
+    - Aalto Scientific Computing https://scicomp.aalto.fi
+    - LUMI Supercomputer https://lumi-supercomputer.eu/user-support/need-help/
